@@ -1,0 +1,21 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "light",
+    "dark",
+    "theme",
+    "Colors/Light",
+    "Colors/Dark",
+    "Primitive/Default",
+    "Screen/Desktop",
+    "Screen/Tablet",
+    "Screen/Mobile",
+    "Style/Glass",
+    "Style/Outline",
+    "Style/Flat",
+    "Spacing/Regular",
+    "Spacing/Medium",
+    "Spacing/Large",
+    "Spacing/Extra Large"
+  ]
+}
